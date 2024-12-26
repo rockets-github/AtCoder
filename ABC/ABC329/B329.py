@@ -1,0 +1,6 @@
+N = int(input())
+X = list(map(int, input().split()))
+L = max(X)
+Z = set(X)
+Z.remove(L)
+print(max(Z))
