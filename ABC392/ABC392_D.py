@@ -1,6 +1,5 @@
 from collections import defaultdict
 
-
 N = int(input())
 K = []
 A = []
