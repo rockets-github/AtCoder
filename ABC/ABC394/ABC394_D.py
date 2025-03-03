@@ -21,7 +21,7 @@ for i in range(len(S)):
                 continue
             else:
                 print("No")
-                exit()                
+                exit()
 
 
 if Q.qsize() == 0:
